@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&text=Hello+World%21&fontSize=60&fontAlign=50&fontAlignY=45&desc=%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EA%B8%B0%ED%9A%8D%EC%9E%90+%EA%B9%80%EB%8D%B0%EC%9D%B4+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%98%89&descSize=30&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&text=Hello+World%21&fontSize=60&fontAlign=50&fontAlignY=45&desc=%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EA%B9%80%EB%8D%B0%EC%9D%B4+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%98%89&descSize=30&descAlign=50&descAlignY=70)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks** <br>
