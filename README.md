@@ -41,7 +41,6 @@
 
 </div>
 
----
 
 <!-- ## 🚀 Current Project
 ✨ **YarnPle(얀플)**  
