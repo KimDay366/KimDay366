@@ -1,26 +1,6 @@
-<!--## Hi there 👋-->
-
-<!--
-**KimDay366/KimDay366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- 상단 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&text=Hello+World%21&fontSize=60&fontAlign=50&fontAlignY=45&desc=%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EA%B9%80%EB%8D%B0%EC%9D%B4+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%98%89&descSize=30&descAlign=50&descAlignY=70)
 
-<!-- 상단 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDCB82,100:F27BAA&height=200&section=header&text=Hi!%20I'm%20JS✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <!-- 인사 -->
 <h3 align="center"> 🌸 성장캐 · 기획하는 개발자 · 뜨개 플랫폼 준비중 🌸 </h3>
@@ -31,9 +11,10 @@ Here are some ideas to get you started:
 - 💻 웹 기획 & 퍼블리싱 경력 5년차 → 웹개발 재도전 중  
 - 🎨 뜨개 플랫폼 준비 중 — [ 실 + 사람 + 놀이 ] 문화 만들기!  
 - 🧶 취미: 뜨개질(코바늘 파), 🌿 식물 덕후, 📺 드라마/영화 연구  
-- ✈️ 여행 좋아하지만 체력은 🐥  
-- 🌱 하루 5분 이상 영어 공부 시작한지 6년째, 아직도 잘은 못하지만 **꾸준함**은 나의 무기  
-- ⚡ 성격: 칭찬받으면 잘하는 편 😆  
+- ✈️ 여행을 무척 좋아하지만 체력은 ☠️☠️☠️  
+- 🌱 하루 5분 이상 영어 공부 시작한지 6년째, 아직도 잘은 못하지만 **꾸준함**은 나의 무기 🌳🌳🌳
+- ⚡ 성격: 칭찬받으면 잘하는 편 😆👏  
+- 🎢 내 경력이 물경력이라는 번뇌와 똑똑한 AI에게 받는 현타와 싸우며 열심히 성장 중  
 
 ---
 
@@ -66,21 +47,19 @@ Here are some ideas to get you started:
 ✨ **YarnPle(얀플)**  
 > "실(Yarn)과 사람이(people) 만나서 놀(play)다"  
 실 비교 플랫폼 → 실 덕후 커뮤니티 → 대형 오프라인 카페까지 확장 예정   -->
-
+<!-- 
 ---
 
 ## 🌈 Fun Facts
 - 🤯 아보카도, 콩 ❌ (절대 못 먹음)  
-- 🧩 이직(사업) 준비 중 → **2026년엔 성공하리라** 🔥  
-- 🎢 내 경력이 물경력이라는 번뇌와 똑똑한 AI에게 받는 현타와 싸우며 열심히 성장 중  
+- 🧩 이직(사업) 준비 중 → **2026년엔 성공하리라** 🔥   -->
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimday366&show_icons=true&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 ---
