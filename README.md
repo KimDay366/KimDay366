@@ -30,13 +30,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 **🗃️ Back-End Languages**  
 
-![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 ![Amazon AWS](https://img.shields.io/badge/amazon_aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 
@@ -67,7 +65,7 @@
 
 ## 💼 Portfolio Projects
 
-1. 여행 계획 프로젝트
+1. 프로젝트 1
    - 설명
    - 주요기능
    - 기술스택
@@ -75,7 +73,7 @@
      
      <br>
      
-2. 매칭 프로젝트
+2. 프로젝트 2
    - 설명
    - 주요기능
    - 기술스택
@@ -83,7 +81,7 @@
 
      <br>
      
-3. 최종 프로젝트
+3. 프로젝트 3
    - 설명
    - 주요기능
    - 기술스택
