@@ -32,11 +32,11 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-**🗃️ Back-End Languages**  
+**🗃️ Back-End Languages**  (2026.07 기준! 공부중!)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 ![Amazon AWS](https://img.shields.io/badge/amazon_aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
+
 
 
 **🛠️ Tools**  
